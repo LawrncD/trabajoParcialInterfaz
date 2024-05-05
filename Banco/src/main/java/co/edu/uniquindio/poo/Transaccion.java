@@ -70,7 +70,7 @@ public void transferirOtraCuenta(String cuentaQueEnvia, String cuentaQueResive, 
                         cuenta2.depositar(valorTrasnferir);
                     }
                     else if(saldoGuardado==cuenta.getSaldo()){
-                        System.err.println("NO tienes suficientes fondos");
+                        System.err.println("No hay suficientes fondos");
                     }
                     
                 }
