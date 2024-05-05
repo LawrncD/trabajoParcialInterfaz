@@ -36,7 +36,7 @@ public class Corriente extends CuentaBancaria{
             sobregiro = sobregiroNuevo;
         }
         else{
-            System.out.println("No tienes suficiente dinero(Pobre) ");
+            System.out.println("No tienes suficiente dinero");
         }
         
     }
