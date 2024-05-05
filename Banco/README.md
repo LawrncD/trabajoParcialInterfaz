@@ -1,4 +1,4 @@
-# banco2_0
+# banco
 
 Descripciín basisca de su Proyecto de POO ...
 
@@ -37,5 +37,5 @@ Para generar el jar puede usar el comando:
 y para ejecutar el jar
 
 ```shell
- java -jar target/banco2_0-1.0.jar
+ java -jar target/banco-1.0.jar
 ```
